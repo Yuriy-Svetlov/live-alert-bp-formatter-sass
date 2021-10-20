@@ -1,0 +1,23 @@
+{
+  "name": "live-alert-bp-formatter-sass",
+  "version": "1.0.0",
+  "description": "The SASS error message formatter for live-alert-bp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live-alert",
+    "live",
+    "alert",
+    "style",
+    "formatter",
+    "sass",
+    "error"
+  ],
+  "author": "Somin Yuri",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.merge": "^4.6.2"
+  }
+}
