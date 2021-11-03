@@ -11,8 +11,10 @@ npm i live-alert-bp-formatter-sass --save-dev
 ## How to use
 
 ```javascript
+	const formatterSASS = require("live-alert-bp-formatter-sass");
+
   liveAlert.open(
-    liveAlertFormatterSASS(MessagesSASS)
+    formatterSASS(MessagesSASS)
   );
 ```
 

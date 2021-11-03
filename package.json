@@ -1,6 +1,6 @@
 {
   "name": "live-alert-bp-formatter-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The SASS error message formatter for live-alert-bp",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,8 @@
     "type": "git",
     "url": "https://github.com/semiromid/live-alert-bp-formatter-sass"
   },
+  "homepage": "https://live-alert-browser-page.com",
+  "bugs": "https://github.com/semiromid/live-alert-bp-formatter-sass/issues",
   "dependencies": {
     "lodash.merge": "^4.6.2"
   }
