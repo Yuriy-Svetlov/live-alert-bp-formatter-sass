@@ -1,6 +1,6 @@
 {
   "name": "live-alert-bp-formatter-sass",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The SASS error message formatter for live-alert-bp",
   "main": "index.js",
   "scripts": {
@@ -15,14 +15,14 @@
     "sass",
     "error"
   ],
-  "author": "Somin Yuri",
+  "author": "Yuriy Svetlov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/live-alert-bp-formatter-sass"
+    "url": "https://github.com/Yuriy-Svetlov/live-alert-bp-formatter-sass"
   },
   "homepage": "https://live-alert-browser-page.com",
-  "bugs": "https://github.com/semiromid/live-alert-bp-formatter-sass/issues",
+  "bugs": "https://github.com/Yuriy-Svetlov/live-alert-bp-formatter-sass/issues",
   "dependencies": {
     "lodash.merge": "^4.6.2"
   }
