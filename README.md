@@ -1,6 +1,6 @@
 # Live Alert BP Formatter SASS
 
-The SASS message formatter for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+The SASS message formatter for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 
 ##  Install
@@ -20,7 +20,7 @@ npm i live-alert-bp-formatter-sass --save-dev
 
 ## Examples how to use
 
-[Examples](https://github.com/semiromid/live-alert-bp#examples)
+[Examples](https://github.com/Yuriy-Svetlov/live-alert-bp#examples)
 
 ## API
 
@@ -30,7 +30,7 @@ const formatterSASS = require("live-alert-bp-formatter-sass");
 formatterSASS(messages, user_style)
 ```
 
-* return: formatted messages for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+* return: formatted messages for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 #### messages
 * Type: `Array`

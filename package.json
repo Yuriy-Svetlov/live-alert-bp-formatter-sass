@@ -1,6 +1,6 @@
 {
   "name": "live-alert-bp-formatter-sass",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The SASS error message formatter for live-alert-bp",
   "main": "index.js",
   "scripts": {
